@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/flaxseed-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"b3962359-7256-5e00-9517-700ac435c2c7","name":"Flaxseed Oil","description":"Fresh cold pressed flaxseed oil, produced without heat and chemicals.","origin":"","price":"","slug":"flaxseed-oil","unit":"-","image":null,"ingredients":"100% flaxseed oil"}},"pageContext":{"slug":"flaxseed-oil"}},
+    "staticQueryHashes": []}

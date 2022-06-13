@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/pumpkin-seeds-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"bf1af970-dc7b-5717-8fc2-35888bce687d","name":"Pumpkin Seeds oil","description":"Fresh cold pressed pumpkin seeds oil, produced without heat and chemicals.","origin":"","price":"","slug":"pumpkin-seeds-oil","unit":"-","image":null,"ingredients":"100% pumpkin seeds oil"}},"pageContext":{"slug":"pumpkin-seeds-oil"}},
+    "staticQueryHashes": []}

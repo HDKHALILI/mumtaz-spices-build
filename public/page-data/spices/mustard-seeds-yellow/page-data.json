@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/spices/mustard-seeds-yellow",
+    "result": {"data":{"dataJson":{"category":"Spices","id":"20c318f5-9936-592f-96af-ed36a09e60ee","name":"Mustard Seeds Yellow","description":"","origin":"","price":"3, 4, 8, 15, 30","slug":"mustard-seeds-yellow","unit":"50g, 100g, 200g, 500g, 1kg","image":null,"ingredients":""}},"pageContext":{"slug":"mustard-seeds-yellow"}},
+    "staticQueryHashes": []}

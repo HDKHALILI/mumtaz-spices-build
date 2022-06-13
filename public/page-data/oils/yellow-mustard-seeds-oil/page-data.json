@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/yellow-mustard-seeds-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"455ceab2-a146-51e2-bbe1-516d26f60eff","name":"Yellow Mustard Seeds oil","description":"Fresh cold pressed yellow mustard seeds oil, produced without heat and chemicals.","origin":"","price":"","slug":"yellow-mustard-seeds-oil","unit":"-","image":null,"ingredients":"100% yellow mustard seeds oil"}},"pageContext":{"slug":"yellow-mustard-seeds-oil"}},
+    "staticQueryHashes": []}

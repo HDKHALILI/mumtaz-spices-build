@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/blackseed-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"8b5dec58-eabc-54d2-9adb-eeec1787cd5b","name":"Blackseed Oil","description":"Fresh cold pressed blackseed sesame oil, produced without heat and chemicals.","origin":"","price":"","slug":"blackseed-oil","unit":"-","image":null,"ingredients":"100% blackseed oil"}},"pageContext":{"slug":"blackseed-oil"}},
+    "staticQueryHashes": []}

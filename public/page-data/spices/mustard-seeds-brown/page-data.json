@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/spices/mustard-seeds-brown",
+    "result": {"data":{"dataJson":{"category":"Spices","id":"61764f86-d581-5459-9958-22dc1db32c79","name":"Mustardd Seeds Brown","description":"","origin":"","price":"3, 4, 8, 15, 30","slug":"mustard-seeds-brown","unit":"50g, 100g, 200g, 500g, 1kg","image":null,"ingredients":""}},"pageContext":{"slug":"mustard-seeds-brown"}},
+    "staticQueryHashes": []}

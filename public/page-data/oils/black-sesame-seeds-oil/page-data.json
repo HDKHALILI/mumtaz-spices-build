@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/black-sesame-seeds-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"bcfa4f3c-17c6-5bc8-98ce-e28bb433f2e1","name":"Black Sesame Seeds Oil","description":"Fresh cold pressed black sesame seeds oil, produced without heat and chemicals.","origin":"","price":"","slug":"black-sesame-seeds-oil","unit":"-","image":null,"ingredients":"100% black sesame seeds oil"}},"pageContext":{"slug":"black-sesame-seeds-oil"}},
+    "staticQueryHashes": []}

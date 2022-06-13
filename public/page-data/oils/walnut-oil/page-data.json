@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/walnut-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"690ad12b-3cd6-5c0e-a021-b080565c1010","name":"Walnut Oil","description":"Fresh cold pressed walnut oil, produced without heat and chemicals.","origin":"","price":"","slug":"walnut-oil","unit":"-","image":null,"ingredients":"100% walnut oil"}},"pageContext":{"slug":"walnut-oil"}},
+    "staticQueryHashes": []}

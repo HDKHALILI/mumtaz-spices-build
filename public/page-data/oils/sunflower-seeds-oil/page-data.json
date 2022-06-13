@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/sunflower-seeds-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"1f084c7c-eb0f-53fd-9ba7-e3039462565f","name":"Sunflower Seeds Oil","description":"Fresh cold pressed sunflower seeds oil, produced without heat and chemicals.","origin":"","price":"","slug":"sunflower-seeds-oil","unit":"-","image":null,"ingredients":"100% sunflower seeds oil"}},"pageContext":{"slug":"sunflower-seeds-oil"}},
+    "staticQueryHashes": []}

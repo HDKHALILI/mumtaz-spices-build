@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/spices/cinnamon-barks",
+    "result": {"data":{"dataJson":{"category":"Spices","id":"ab7db24c-8f05-56b2-9597-1316862c5c7c","name":"Cinnamon Barks","description":"","origin":"","price":"3, 4, 8, 15, 30","slug":"cinnamon-barks","unit":"50g, 100g, 200g, 500g, 1kg","image":null,"ingredients":""}},"pageContext":{"slug":"cinnamon-barks"}},
+    "staticQueryHashes": []}

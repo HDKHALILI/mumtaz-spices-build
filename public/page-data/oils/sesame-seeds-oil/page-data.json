@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/sesame-seeds-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"24308e2c-ced4-51f0-98ab-a62330ca3bfa","name":"Sesame Seeds Oil","description":"Fresh cold pressed sesame seeds oil, produced without heat and chemicals.","origin":"","price":"","slug":"sesame-seeds-oil","unit":"-","image":null,"ingredients":"100% sesame seeds oil"}},"pageContext":{"slug":"sesame-seeds-oil"}},
+    "staticQueryHashes": []}

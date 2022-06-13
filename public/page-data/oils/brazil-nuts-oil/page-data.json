@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/brazil-nuts-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"ecdec48a-ec10-5e23-9f22-ef3a0a5e7a3c","name":"Brazil Nuts Oil","description":"Fresh cold pressed brazil nuts oil, produced without heat and chemicals.","origin":"","price":"","slug":"brazil-nuts-oil","unit":"-","image":null,"ingredients":"100% brazil nuts oil"}},"pageContext":{"slug":"brazil-nuts-oil"}},
+    "staticQueryHashes": []}

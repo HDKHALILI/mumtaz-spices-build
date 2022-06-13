@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/apricot-seeds-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"68b06216-f61d-5a29-9664-ed21a8d5b1db","name":"Apricot Seeds Oil","description":"Fresh cold pressed apricot seeds oil, produced without heat and chemicals.","origin":"","price":"","slug":"apricot-seeds-oil","unit":"-","image":null,"ingredients":"100% apricot seeds oil"}},"pageContext":{"slug":"apricot-seeds-oil"}},
+    "staticQueryHashes": []}

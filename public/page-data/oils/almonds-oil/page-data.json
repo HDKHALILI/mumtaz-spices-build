@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/oils/almonds-oil",
+    "result": {"data":{"dataJson":{"category":"Oils","id":"195005df-a535-50a6-b086-b3b08c6ce106","name":"Almonds Oil","description":"Fresh cold pressed almonds oil, produced without heat and chemicals.","origin":"","price":"","slug":"almonds-oil","unit":"-","image":null,"ingredients":"100% almonds oil"}},"pageContext":{"slug":"almonds-oil"}},
+    "staticQueryHashes": []}

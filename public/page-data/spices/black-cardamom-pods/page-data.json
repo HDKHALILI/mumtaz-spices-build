@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-details-js",
+    "path": "/spices/black-cardamom-pods",
+    "result": {"data":{"dataJson":{"category":"Spices","id":"753b8a42-c14d-5624-9d33-853b0e5005c9","name":"Black Cardamom Pods","description":"","origin":"","price":"10","slug":"black-cardamom-pods","unit":"100g","image":null,"ingredients":"100% black cardamom pods."}},"pageContext":{"slug":"black-cardamom-pods"}},
+    "staticQueryHashes": []}
